@@ -34,6 +34,4 @@ This project is an extension of the classic Tic-Tac-Toe game played on nine 3x3 
 - Easy to learn rules.</br>
 ![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/UltimateTicTacToe/Rule1.png)
 ![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/UltimateTicTacToe/Rule2.png)
-![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/UltimateTicTacToe/Rule2.png)
-![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/UltimateTicTacToe/Rule2.png)
 ![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/UltimateTicTacToe/Rule3.png)

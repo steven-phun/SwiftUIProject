@@ -9,15 +9,14 @@ This project is a replica of a Pokédex from the television show Pokémon. A Pok
 
 ## Features
 - A scrollable view of every Pokémon available.<br/>
-![image](https://github.com/steven-phun/SwiftUIProjects/blob/main/PokemonEncyclopedia/App%20Preview/ScrollView1.png)
-![image](https://github.com/steven-phun/SwiftUIProjects/blob/main/PokemonEncyclopedia/App%20Preview/ScrollView2.png)
+![image](https://github.com/steven-phun/SwiftUIPhotos/blob/main/Pokemon/ListView1.png)
+![image](https://github.com/steven-phun/SwiftUIPhotos/blob/main/Pokemon/ListView2.png)
 - Selecting a Pokémon will bring up its information.<br/>
-![image](https://github.com/steven-phun/SwiftUIProjects/blob/main/PokemonEncyclopedia/App%20Preview/Preview1.png)
-![image](https://github.com/steven-phun/SwiftUIProjects/blob/main/PokemonEncyclopedia/App%20Preview/Preview2.png)
+![image](https://github.com/steven-phun/SwiftUIPhotos/blob/main/Pokemon/Preview1.png)
+![image](https://github.com/steven-phun/SwiftUIPhotos/blob/main/Pokemon/Preview2.png)
 - Pokémon's base stats and type is represents visually based on the value or type.</br>
-![image](https://github.com/steven-phun/SwiftUIProjects/blob/main/PokemonEncyclopedia/App%20Preview/ColorBars1.png)
-![image](https://github.com/steven-phun/SwiftUIProjects/blob/main/PokemonEncyclopedia/App%20Preview/ColorBars2.png)
-
+![image](https://github.com/steven-phun/SwiftUIPhotos/blob/main/Pokemon/ColorBars1.png)
+![image](https://github.com/steven-phun/SwiftUIPhotos/blob/main/Pokemon/ColorBars2.png)
 
 
 # Ultimate Tic Tac Toe

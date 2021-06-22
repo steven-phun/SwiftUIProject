@@ -1,9 +1,11 @@
 # SwiftUIProjects
+
 ### Table of Projects
-- [Pokémon Encyclopedia](#pokémon-encyclopedia )
+- [Pokémon Encyclopedia](#pokémon-encyclopedia)
+- [Ultimate Tic Tac Toe](#ultimate-tic-tac-toe)
 
 # Pokémon Encyclopedia 
-This project is a replica of a Pokédex from the television show Pokémon. A Pokédex is a handheld electronic encyclopedia device capable of recording and retaining information of the various Pokémon.
+This project is a replica of a Pokédex from the television show Pokémon. A Pokédex is a handheld electronic encyclopedia device capable of recording and retaining information of the various Pokémon. 
 
 ## Features
 - A scrollable view of every Pokémon available.<br/>
@@ -17,16 +19,20 @@ This project is a replica of a Pokédex from the television show Pokémon. A Pok
 ![image](https://github.com/steven-phun/SwiftUIProjects/blob/main/PokemonEncyclopedia/App%20Preview/ColorBars2.png)
 
 
-## From the Developer
-Project Summary
 
-- Select a Pokémon and find out its data, base stats, and summary. A Pokémon is a cartoon monster from the television show Pokémon. 
+# Ultimate Tic Tac Toe
+This project is an extension of the classic Tic-Tac-Toe game played on nine 3x3 grids arranged as a larger 3x3 grid.
 
-Project Inspiration 
-
-- My love and passion for Pokémon.
-
-Project Difficulties
-
-- First SwiftUI project (Swift and SwiftUI syntax). 
-- Using Xcode (IDE and git).
+## Features
+- Play Ultimate Tic Tac Toe with freinds locally or play in single player with a bot.
+![image](https://github.com/steven-phun/SwiftUIPhotos/blob/main/UltimateTicTacToe/HomeScreen.png)
+- Customizable player's color.</br>
+![image](https://github.com/steven-phun/SwiftUIPhotos/blob/main/UltimateTicTacToe/Settings.png)
+![image](https://github.com/steven-phun/SwiftUIPhotos/blob/main/UltimateTicTacToe/Color%20Preference.png)
+- Playable in light and dark mode.</br>
+![image](https://github.com/steven-phun/SwiftUIPhotos/blob/main/UltimateTicTacToe/LightMode.png)
+![image](https://github.com/steven-phun/SwiftUIPhotos/blob/main/UltimateTicTacToe/DarkMode.png)
+- Easy to learn rules.</br>
+![image](https://github.com/steven-phun/SwiftUIPhotos/blob/main/UltimateTicTacToe/Rule1.png)
+![image](https://github.com/steven-phun/SwiftUIPhotos/blob/main/UltimateTicTacToe/Rule2.png)
+![image](https://github.com/steven-phun/SwiftUIPhotos/blob/main/UltimateTicTacToe/Rule3.png)

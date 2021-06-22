@@ -1,6 +1,6 @@
 # SwiftUIProjects
 ### Table of Projects
-- [Pokémon Encyclopedia](https://github.com/steven-phun/SwiftUIProjects/tree/main/PokemonEncyclopedia)
+- [Pokémon Encyclopedia](#pokémon-encyclopedia )
 
 # Pokémon Encyclopedia 
 This project is a replica of a Pokédex from the television show Pokémon. A Pokédex is a handheld electronic encyclopedia device capable of recording and retaining information of the various Pokémon.

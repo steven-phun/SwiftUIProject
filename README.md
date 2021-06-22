@@ -27,7 +27,7 @@ This project is an extension of the classic Tic-Tac-Toe game played on nine 3x3 
 ![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/UltimateTicTacToe/HomeScreen.png)
 - Customizable player's color.</br>
 ![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/UltimateTicTacToe/Settings.png)
-![image](https://github.com/steven-phun/SwiftUIPhotos/blob/main/UltimateTicTacToe/Color%20Preference.png)
+![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/UltimateTicTacToe/Color%20Preference.png)
 - Playable in light and dark mode.</br>
 ![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/UltimateTicTacToe/LightMode.png)
 ![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/UltimateTicTacToe/DarkMode.png)

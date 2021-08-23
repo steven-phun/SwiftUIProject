@@ -14,6 +14,8 @@ This project is a replica of a Pokédex from the television show Pokémon. A Pok
 - Selecting a Pokémon will bring up its information.<br/>
 ![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/PokémonEncyclopedia/Info1.png)
 ![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/PokémonEncyclopedia/Info2.png)
+![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/PokémonEncyclopedia/Info3.png)
+![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/PokémonEncyclopedia/Info4.png)
 - Information also includes evolution chains, abilities, variations between individual Pokémon.</br>
 ![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/PokémonEncyclopedia/EvoChain1.png)
 ![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/PokémonEncyclopedia/EvoChain2.png)

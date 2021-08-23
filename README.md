@@ -12,11 +12,19 @@ This project is a replica of a Pokédex from the television show Pokémon. A Pok
 ![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/Pokemon/ListView1.png)
 ![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/Pokemon/ListView2.png)
 - Selecting a Pokémon will bring up its information.<br/>
-![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/Pokemon/Preview1.png)
-![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/Pokemon/Preview2.png)
-- Pokémon's base stats and type is represents visually based on the value or type.</br>
-![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/Pokemon/ColorBars1.png)
-![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/Pokemon/ColorBars2.png)
+![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/Pokemon/Info1.png)
+![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/Pokemon/Info2.png)
+- Information also includes evolution chains, abilities, variations between individual Pokémon.</br>
+![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/Pokemon/EvoChain1.png)
+![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/Pokemon/EvoChain2.png)
+- Pokémon type chart is also available for every Pokémon. </br>
+![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/Pokemon/TypeChart1.png)
+![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/Pokemon/TypeChart2.png)
+- Pokémon information is available in light and dark mode.</br>
+![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/Pokemon/LightMode1.png)
+![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/Pokemon/LightMode2.png)
+![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/Pokemon/DarkMode1.png)
+![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/Pokemon/DarkMode2.png)
 
 
 # Ultimate Tic Tac Toe

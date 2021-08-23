@@ -23,7 +23,7 @@ This project is a replica of a Pokédex from the television show Pokémon. A Pok
 This project is an extension of the classic Tic-Tac-Toe game played on nine 3x3 grids arranged as a larger 3x3 grid.
 
 ## Features
-- Play Ultimate Tic Tac Toe with freinds locally or play in single player with a bot.</br>
+- Play Ultimate Tic Tac Toe with friends locally or play in single player with a bot.</br>
 ![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/UltimateTicTacToe/HomeScreen.png)
 - Customizable player's color.</br>
 ![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/UltimateTicTacToe/Settings.png)

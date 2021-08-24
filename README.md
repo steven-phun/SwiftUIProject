@@ -19,6 +19,8 @@ This project is a replica of a Pokédex from the television show Pokémon. A Pok
 - Information also includes evolution chains, abilities, variations between individual Pokémon.</br>
 ![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/PokémonEncyclopedia/EvoChain1.png)
 ![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/PokémonEncyclopedia/EvoChain2.png)
+![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/PokémonEncyclopedia/Form1.png)
+![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/PokémonEncyclopedia/Form2.png)
 - Pokémon type chart is also available for every Pokémon. </br>
 ![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/PokémonEncyclopedia/TypeChart1.png)
 ![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/PokémonEncyclopedia/TypeChart2.png)

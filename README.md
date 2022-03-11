@@ -1,11 +1,27 @@
 # SwiftUIProjects
 
 ### Table of Projects
+- [NoireRose Codex](#noirerose-codex)
 - [Pokémon Encyclopedia](#pokémon-encyclopedia)
 - [Ultimate Tic Tac Toe](#ultimate-tic-tac-toe)
 
+# NoireRose Codex
+This project is a replica of a Pokédex from the television show Pokémon. A Pokédex is a handheld electronic encyclopedia device capable of recording and retaining information of the various Pokémon. 
+
+## Features
+- Color-coded letters to help solve the codex.<br/>
+![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/NoireRoseCodex/LightMode.png)
+- This app is playable in light and dark mode.<br/>
+![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/NoireRoseCodex/DarkMode.png)
+- The longer letter codex is unlocked by completing, the shorter letter codex. All codices are reset daily.<br/>
+![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/NoireRoseCodex/Lock.png)
+- Use the space bar to provide visual help.<br/>
+![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/NoireRoseCodex/Space.png)
+
+
 # Pokémon Encyclopedia 
 This project is a replica of a Pokédex from the television show Pokémon. A Pokédex is a handheld electronic encyclopedia device capable of recording and retaining information of the various Pokémon. 
+
 
 ## Features
 - A scrollable view of every Pokémon available.<br/>

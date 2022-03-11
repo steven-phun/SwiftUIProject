@@ -10,7 +10,7 @@ This project is a replica of a Pokédex from the television show Pokémon. A Pok
 
 ## Features
 - Color-coded letters to help solve the codex.<br/>
-![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/NoireRoseCodex/LightMode.png)
+![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/NoireRoseCodex/LightMode.png | width=250)
 - This app is playable in light and dark mode.<br/>
 ![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/NoireRoseCodex/DarkMode.png)
 - The longer letter codex is unlocked by completing, the shorter letter codex. All codices are reset daily.<br/>

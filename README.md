@@ -10,13 +10,15 @@ This project is a replica of a Pokédex from the television show Pokémon. A Pok
 
 ## Features
 - Color-coded letters to help solve the codex.<br/>
-![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/NoireRoseCodex/LightMode.png | width=250)
+![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/NoireRoseCodex/LightMode.png)
 - This app is playable in light and dark mode.<br/>
 ![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/NoireRoseCodex/DarkMode.png)
 - The longer letter codex is unlocked by completing, the shorter letter codex. All codices are reset daily.<br/>
 ![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/NoireRoseCodex/Lock.png)
 - Use the space bar to provide visual help.<br/>
 ![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/NoireRoseCodex/Space.png)
+- Ranking coming soon.<br/>
+- ![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/NoireRoseCodex/Rank.png)
 
 
 # Pokémon Encyclopedia 

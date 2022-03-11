@@ -6,6 +6,8 @@
 - [Ultimate Tic Tac Toe](#ultimate-tic-tac-toe)
 
 # NoireRose Codex
+Noire rose means black rose or black pink in French. 
+
 This project allows users to unlock the codex in a given amount of tries. Each guess must be a valid word in the codex word bank. NoireRose Codex will color-code the letters after each guess to indicate how close your guess is to the codex. 
 
 ## Features

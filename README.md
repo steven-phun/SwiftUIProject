@@ -6,7 +6,7 @@
 - [Ultimate Tic Tac Toe](#ultimate-tic-tac-toe)
 
 # NoireRose Codex
-This project is a replica of a Pokédex from the television show Pokémon. A Pokédex is a handheld electronic encyclopedia device capable of recording and retaining information of the various Pokémon. 
+This project allows users to unlock the codex in a given amount of tries. Each guess must be a valid word in the codex word bank. NoireRose Codex will color-code the letters after each guess to indicate how close your guess is to the codex. 
 
 ## Features
 - Color-coded letters to help solve the codex.<br/>

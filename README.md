@@ -8,7 +8,7 @@
 # NoireRose Codex
 Noire rose means black rose or black pink in French. 
 
-This project allows users to unlock the codex in a given amount of tries. Each guess must be a valid word in the codex word bank. NoireRose Codex will color-code the letters after each guess to indicate how close your guess is to the codex. 
+This project allows users to solve the 4, 5, and 6-Letter Codex in six tries. Each guess must be a valid word in the Codex's word bank. NoireRose Codex will color-code the letters after each guess to indicate how close your guess is to the Codex. Attempt the 4-Letter Codex to get the 5-Letter Codex. Solve the 5-Letter Codex to get the 6-Letter Codex. 
 
 ## Features
 - Color-coded letters to help solve the codex.<br/>

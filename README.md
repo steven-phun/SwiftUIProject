@@ -3,7 +3,7 @@
 ### Table of Projects
 - [NoireRose Codex](#noirerose-codex)
 - [Pokémon Encyclopedia](#pokémon-encyclopedia)
-- [Ultimate Tic Tac Toe](#ultimate-tic-tac-toe) view in the [app store](https://apps.apple.com/us/app/ultimate-tic-tac-toe-ll/id1585512106)
+- [Ultimate Tic Tac Toe](#ultimate-tic-tac-toe) view in the [App Store](https://apps.apple.com/us/app/ultimate-tic-tac-toe-ll/id1585512106)
 # NoireRose Codex
 Noire rose means black rose or black pink in French. 
 

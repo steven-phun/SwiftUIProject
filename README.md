@@ -19,9 +19,9 @@ This project allows users to solve the 4, 5, and 6-Letter Codex in six tries. Ea
 ![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/NoireRoseCodex/Lock.png)
 - Use the space bar to provide visual help.<br/>
 ![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/NoireRoseCodex/Space.png)
-- Check out when the next codex is available and how you did overall in the Stats Tab.<br/>
+- Check out when the next codex is available and how you did overall.<br/>
 ![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/NoireRoseCodex/Stats.png)
-- Easy to follow rules .<br/>
+- Easy to follow rules.<br/>
 ![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/NoireRoseCodex/Rules.png)
 
 

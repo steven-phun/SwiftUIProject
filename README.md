@@ -10,16 +10,14 @@ Noire rose means black rose or black pink in French.
 This project allows users to solve the 4, 5, and 6-Letter Codex in six tries. Each guess must be a valid word in the Codex's word bank. NoireRose Codex will color-code the letters after each guess to indicate how close your guess is to the Codex. Attempt the 4-Letter Codex to get the 5-Letter Codex. Solve the 5-Letter Codex to get the 6-Letter Codex. 
 
 ## Features
-- Color-coded letters to help solve the codex.<br/>
+- Color-coded letters to help solve the codex and playable in light & dark mode<br/>
 ![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/NoireRoseCodex/LightMode.png)
-- This app is playable in light and dark mode.<br/>
 ![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/NoireRoseCodex/DarkMode.png)
 - The next codex is unlocked by completing the previous codex, and new codices are available every midnight.<br/>
 ![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/NoireRoseCodex/Lock.png)
+![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/NoireRoseCodex/Stats.png)
 - Use the space bar to provide visual help.<br/>
 ![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/NoireRoseCodex/Space.png)
-- Check out when the next codex is available and how you did overall.<br/>
-![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/NoireRoseCodex/Stats.png)
 - Easy to follow rules.<br/>
 ![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/NoireRoseCodex/Rules.png)
 

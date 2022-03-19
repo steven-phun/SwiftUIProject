@@ -4,6 +4,8 @@
 - [NoireRose Codex](#noirerose-codex)
 - [Pokémon Encyclopedia](#pokémon-encyclopedia)
 - [Ultimate Tic Tac Toe](#ultimate-tic-tac-toe) view in the [App Store](https://apps.apple.com/us/app/ultimate-tic-tac-toe-ll/id1585512106)
+
+
 # NoireRose Codex
 Noire rose means black rose or black pink in French. 
 
@@ -13,18 +15,17 @@ This project allows users to solve the 4, 5, and 6-Letter Codex in six tries. Ea
 - Color-coded letters to help solve the codex and playable in light & dark mode<br/>
 ![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/NoireRoseCodex/LightMode.png)
 ![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/NoireRoseCodex/DarkMode.png)
-- The next codex is unlocked by completing the previous codex, and new codices are available every midnight.<br/>
-![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/NoireRoseCodex/Lock.png)
+- Easy to learn rules and keep track of how you're doing overall.<br/>
+![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/NoireRoseCodex/Rules.png)
 ![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/NoireRoseCodex/Stats.png)
 - Use the space bar to provide visual help.<br/>
 ![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/NoireRoseCodex/Space.png)
-- Easy to follow rules.<br/>
-![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/NoireRoseCodex/Rules.png)
+- The next codex is unlocked by completing the previous codex, and new codices are available every midnight.<br/>
+![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/NoireRoseCodex/Lock.png)
 
 
 # Pokémon Encyclopedia 
 This project is a replica of a Pokédex from the television show Pokémon. A Pokédex is a handheld electronic encyclopedia device capable of recording and retaining information of the various Pokémon. 
-
 
 ## Features
 - A scrollable view of every Pokémon available.<br/>

@@ -1,7 +1,7 @@
 # SwiftUIProjects
 
 ### Table of Projects
-- [NoireRose Codex](#noirerose-codex)
+- [NoireRose Codex](#noirerose-codex) view in the [App Store](https://apps.apple.com/us/app/noirerose-codex/id1612392088)
 - [Pokémon Encyclopedia](#pokémon-encyclopedia)
 - [Ultimate Tic Tac Toe](#ultimate-tic-tac-toe) view in the [App Store](https://apps.apple.com/us/app/ultimate-tic-tac-toe-ll/id1585512106)
 

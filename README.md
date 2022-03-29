@@ -18,11 +18,11 @@ This project allows users to solve the 4, 5, and 6-Letter Codex in six tries. Ea
 - Easy to learn rules and use the space bar to provide visual help.<br/>
 ![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/NoireRoseCodex/Rules.png)
 ![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/NoireRoseCodex/Space.png)
-- The next codex is unlocked by completing the previous codex, and new codices are available every midnight.<br/>
-![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/NoireRoseCodex/Lock.png)
-- Suggest new words and set the appearance to dark or light mode and keep track of how you're doing overall within the app.<br/>
+- Suggest new words, set the appearance, and keep track of how you're doing overall within the app.<br/>
 ![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/NoireRoseCodex/Stats.png)
 ![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/NoireRoseCodex/Menu.png)
+- The next codex is unlocked by completing the previous codex, and new codices are available every midnight.<br/>
+![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/NoireRoseCodex/Lock.png)
 
 
 # Pokémon Encyclopedia 

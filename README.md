@@ -15,14 +15,13 @@ This project allows users to solve the 4, 5, and 6-Letter Codex in six tries. Ea
 - Color-coded letters to help solve the codex and playable in light & dark mode<br/>
 ![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/NoireRoseCodex/LightMode.png)
 ![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/NoireRoseCodex/DarkMode.png)
-- Easy to learn rules and keep track of how you're doing overall.<br/>
+- Easy to learn rules and use the space bar to provide visual help.<br/>
 ![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/NoireRoseCodex/Rules.png)
-![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/NoireRoseCodex/Stats.png)
-- Use the space bar to provide visual help.<br/>
 ![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/NoireRoseCodex/Space.png)
 - The next codex is unlocked by completing the previous codex, and new codices are available every midnight.<br/>
 ![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/NoireRoseCodex/Lock.png)
-- Suggest new words and set the appearance to dark or light mode within the app. .<br/>
+- Suggest new words and set the appearance to dark or light mode and keep track of how you're doing overall within the app.<br/>
+![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/NoireRoseCodex/Stats.png)
 ![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/NoireRoseCodex/Menu.png)
 
 

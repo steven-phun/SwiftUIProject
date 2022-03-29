@@ -1,31 +1,31 @@
 # SwiftUIProjects
 
 ### Table of Projects
-- [NoireRose Codex](#noirerose-codex)
+- [NoireRose Codex](#noirerose-codex) view in the [App Store](https://apps.apple.com/us/app/noirerose-codex/id1612392088)
 - [Pokémon Encyclopedia](#pokémon-encyclopedia)
-- [Ultimate Tic Tac Toe](#ultimate-tic-tac-toe)
+- [Ultimate Tic Tac Toe](#ultimate-tic-tac-toe) view in the [App Store](https://apps.apple.com/us/app/ultimate-tic-tac-toe-ll/id1585512106)
+
 
 # NoireRose Codex
-Noire rose means black rose or black pink in French. 
+Noire rose means black rose or black pink in French.
 
-This project allows users to solve the 4, 5, and 6-Letter Codex in six tries. Each guess must be a valid word in the Codex's word bank. NoireRose Codex will color-code the letters after each guess to indicate how close your guess is to the Codex. Attempt the 4-Letter Codex to get the 5-Letter Codex. Solve the 5-Letter Codex to get the 6-Letter Codex. 
+This project allows users to solve the 4, 5, and 6-Letter Codex in six tries. Each guess must be a valid word in the Codex's word bank. NoireRose Codex will color-code the letters after each guess to indicate how close your guess is to the Codex. Attempt the 4-Letter Codex to get the 5-Letter Codex. Solve the 5-Letter Codex to get the 6-Letter Codex. Everyone gets the same Codex every day and resets every midnight. 
 
 ## Features
-- Color-coded letters to help solve the codex.<br/>
+- Color-coded letters to help solve the codex and playable in light & dark mode<br/>
 ![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/NoireRoseCodex/LightMode.png)
-- This app is playable in light and dark mode.<br/>
 ![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/NoireRoseCodex/DarkMode.png)
-- The longer letter codex is unlocked by completing, the shorter letter codex, and all codices are reset daily.<br/>
-![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/NoireRoseCodex/Lock.png)
+- Easy to learn rules and keep track of how you're doing overall.<br/>
+![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/NoireRoseCodex/Rules.png)
+![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/NoireRoseCodex/Stats.png)
 - Use the space bar to provide visual help.<br/>
 ![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/NoireRoseCodex/Space.png)
-- Ranking coming soon.<br/>
-- ![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/NoireRoseCodex/Rank.png)
+- The next codex is unlocked by completing the previous codex, and new codices are available every midnight.<br/>
+![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/NoireRoseCodex/Lock.png)
 
 
 # Pokémon Encyclopedia 
 This project is a replica of a Pokédex from the television show Pokémon. A Pokédex is a handheld electronic encyclopedia device capable of recording and retaining information of the various Pokémon. 
-
 
 ## Features
 - A scrollable view of every Pokémon available.<br/>

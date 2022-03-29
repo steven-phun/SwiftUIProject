@@ -22,6 +22,8 @@ This project allows users to solve the 4, 5, and 6-Letter Codex in six tries. Ea
 ![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/NoireRoseCodex/Space.png)
 - The next codex is unlocked by completing the previous codex, and new codices are available every midnight.<br/>
 ![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/NoireRoseCodex/Lock.png)
+- Suggest new words and set the appearance to dark or light mode within the app. .<br/>
+![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/NoireRoseCodex/Menu.png)
 
 
 # Pokémon Encyclopedia 

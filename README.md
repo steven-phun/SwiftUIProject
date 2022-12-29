@@ -8,15 +8,23 @@
 
 # Mighty Card Game
 This project is a 3 or 5-player trick-taking card game that uses a standard 52-card deck and one joker.
-![image](https://github.com/steven-phun/SwiftUIProject/blob/master/GitHub-Images/MightyCardGame/BiddingPhase.png)
-![image](https://github.com/steven-phun/SwiftUIProject/blob/master/GitHub-Images/MightyCardGame/FivePlayerHost.png)
-![image](https://github.com/steven-phun/SwiftUIProject/blob/master/GitHub-Images/MightyCardGame/HomeScreen.png)
-![image](https://github.com/steven-phun/SwiftUIProject/blob/master/GitHub-Images/MightyCardGame/PartnerPhase.png)
-![image](https://github.com/steven-phun/SwiftUIProject/blob/master/GitHub-Images/MightyCardGame/ScorePhase.png)
-![image](https://github.com/steven-phun/SwiftUIProject/blob/master/GitHub-Images/MightyCardGame/ThreePlayerHost.png)
-![image](https://github.com/steven-phun/SwiftUIProject/blob/master/GitHub-Images/MightyCardGame/TrickPhase.png)
 
 ## Features
+- Play Mighty Card Game remotely with friends using Apple's Game Center.<br/>
+![image](https://github.com/steven-phun/SwiftUIProject/blob/master/GitHub-Images/MightyCardGame/HomeScreen.png)
+
+- Mighty Card Game can be played with 3 or 5 players.<br/>
+![image](https://github.com/steven-phun/SwiftUIProject/blob/master/GitHub-Images/MightyCardGame/ThreePlayerHost.png)
+![image](https://github.com/steven-phun/SwiftUIProject/blob/master/GitHub-Images/MightyCardGame/FivePlayerHost.png)
+
+- Easy to follow instructions to guide you through the game.<br/>
+![image](https://github.com/steven-phun/SwiftUIProject/blob/master/GitHub-Images/MightyCardGame/BiddingPhase.png)
+![image](https://github.com/steven-phun/SwiftUIProject/blob/master/GitHub-Images/MightyCardGame/PartnerPhase.png)
+
+- Visual indicators of which cards can be played and keeps a total running score all within the app.<br/>
+![image](https://github.com/steven-phun/SwiftUIProject/blob/master/GitHub-Images/MightyCardGame/TrickPhase.png)
+![image](https://github.com/steven-phun/SwiftUIProject/blob/master/GitHub-Images/MightyCardGame/ScorePhase.png)
+
 
 # NoireRose Codex
 Noire rose means black rose or black pink in French.

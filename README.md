@@ -7,7 +7,7 @@
 - [Ultimate Tic Tac Toe](#ultimate-tic-tac-toe) view in the [App Store](https://apps.apple.com/us/app/ultimate-tic-tac-toe-ll/id1585512106)
 
 # Mighty
-A 3 or 5-player trick-taking card game that uses a standard 52-card deck and one joker.
+This project is a 3 or 5-player trick-taking card game that uses a standard 52-card deck and one joker.
 
 ## Features
 

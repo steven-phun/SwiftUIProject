@@ -6,8 +6,15 @@
 - [Pokémon Encyclopedia](#pokémon-encyclopedia)
 - [Ultimate Tic Tac Toe](#ultimate-tic-tac-toe) view in the [App Store](https://apps.apple.com/us/app/ultimate-tic-tac-toe-ll/id1585512106)
 
-# Mighty
+# Mighty Card Game
 This project is a 3 or 5-player trick-taking card game that uses a standard 52-card deck and one joker.
+![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/MightyCardGame/BiddingPhase.png)
+![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/MightyCardGame/FivePlayerHost.png)
+![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/MightyCardGame/HomeScreen.png)
+![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/MightyCardGame/PartnerPhase.png)
+![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/MightyCardGame/ScorePhase.png)
+![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/MightyCardGame/ThreePlayerHost.png)
+![image](https://github.com/steven-phun/SwiftUIProject/blob/main/GitHub-Images/MightyCardGame/TrickPhase.png)
 
 ## Features
 

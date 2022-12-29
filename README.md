@@ -1,10 +1,15 @@
 # SwiftUIProjects
 
 ### Table of Projects
+- [Mighty Card Game](#mighty) view in the [App Store](https://apps.apple.com/us/app/mighty-card-game/id1621810442)
 - [NoireRose Codex](#noirerose-codex) view in the [App Store](https://apps.apple.com/us/app/noirerose-codex/id1612392088)
 - [Pokémon Encyclopedia](#pokémon-encyclopedia)
 - [Ultimate Tic Tac Toe](#ultimate-tic-tac-toe) view in the [App Store](https://apps.apple.com/us/app/ultimate-tic-tac-toe-ll/id1585512106)
 
+# Mighty
+A 3 or 5-player trick-taking card game that uses a standard 52-card deck and one joker.
+
+## Features
 
 # NoireRose Codex
 Noire rose means black rose or black pink in French.

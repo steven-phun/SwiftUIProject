@@ -1,8 +1,8 @@
 # SwiftUIProjects
 
 ### Table of Projects
-- [Mighty Card Game](#mighty) view in the [App Store](https://apps.apple.com/us/app/mighty-card-game/id1621810442)
-- [NoireRose Codex](#noirerose-codex) view in the [App Store](https://apps.apple.com/us/app/noirerose-codex/id1612392088)
+- [Mighty Card Game](#mighty-card-game) view in the [App Store](https://apps.apple.com/us/app/mighty-card-game/id1621810442)
+- [Noire Rose Codex](#noire-rose-codex) view in the [App Store](https://apps.apple.com/us/app/noirerose-codex/id1612392088)
 - [Pokémon Encyclopedia](#pokémon-encyclopedia)
 - [Ultimate Tic Tac Toe](#ultimate-tic-tac-toe) view in the [App Store](https://apps.apple.com/us/app/ultimate-tic-tac-toe-ll/id1585512106)
 
@@ -26,7 +26,7 @@ This project is a 3 or 5-player trick-taking card game that uses a standard 52-c
 ![image](https://github.com/steven-phun/SwiftUIProject/blob/master/GitHub-Images/MightyCardGame/ScorePhase.png)
 
 
-# NoireRose Codex
+# Noire Rose Codex
 Noire rose means black rose or black pink in French.
 
 This project allows users to solve the 4, 5, and 6-Letter Codex in six tries. Each guess must be a valid word in the Codex's word bank. NoireRose Codex will color-code the letters after each guess to indicate how close your guess is to the Codex. Attempt the 4-Letter Codex to get the 5-Letter Codex. Solve the 5-Letter Codex to get the 6-Letter Codex. Everyone gets the same Codex every day and resets every midnight. 

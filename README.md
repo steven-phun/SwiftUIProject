@@ -7,7 +7,11 @@
 - [Ultimate Tic Tac Toe](#ultimate-tic-tac-toe) view in the [App Store](https://apps.apple.com/us/app/ultimate-tic-tac-toe-ll/id1585512106)
 
 # Mighty Card Game
-This project is a 3 or 5-player trick-taking card game that uses a standard 52-card deck and one joker.
+The card game Mighty is said to have been invented by Korean college students in the mid 1970's, but it is closely related to the group of Japanese picture capturing games, especially Napoleon (Japanese Card Game), which date back to the beginning of the 20th century. Mighty is played mostly by current or former students in Korea, and it is known there by the English sounding name "Mighty".
+
+Mighty is a point-trick game with bidding. In each hand the high bidder chooses a partner by calling a card, and these two players try to take enough of the scoring cards (A, K, Q, J, 10) to fulfill the bid. 
+
+This project solved the problem of getting five people in the same room, which has proved difficult on many occasions. The solution was to make the game accessible online.
 
 ## Features
 - Play Mighty Card Game remotely with friends using Apple's Game Center.<br/>

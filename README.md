@@ -3,7 +3,7 @@
 ### Table of Projects
 - [Mighty Card Game](#mighty-card-game) view in the [App Store](https://apps.apple.com/us/app/mighty-card-game/id1621810442)
 - [Noire Rose Codex](#noire-rose-codex) view in the [App Store](https://apps.apple.com/us/app/noirerose-codex/id1612392088)
-- [Pokémon Encyclopedia](#pokémon-encyclopedia)
+- [Pokémon Encyclopedia](#pokémon-encyclopedia) *not available on the App Store due to copyright*
 - [Ultimate Tic Tac Toe](#ultimate-tic-tac-toe) view in the [App Store](https://apps.apple.com/us/app/ultimate-tic-tac-toe-ll/id1585512106)
 
 # Mighty Card Game

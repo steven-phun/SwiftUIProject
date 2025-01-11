@@ -1,10 +1,29 @@
 # SwiftUIProjects
 
 ### Table of Projects
+- [Codex](#codex)
 - [Mighty Card Game](#mighty-card-game)
-- [Noire Rose Codex](#noire-rose-codex)
 - [Pokémon Encyclopedia](#pokémon-encyclopedia)
 - [Ultimate Tic Tac Toe](#ultimate-tic-tac-toe)
+
+# Codex
+_AppStore Link https://apps.apple.com/us/app/codex/id6738445369_
+
+This project allows users to solve a 5-Letter Codex in six tries daily. Each guess must be a valid word in the Codex's word bank. Codex will color-code the letters after each guess to indicate how close your guess is to the Codex. Everyone will get a different Codex daily, which resets every midnight. You can view how each player completed their Codex and see how you compare with others each season.
+
+## Features
+- Color-coded letters to help solve the codex and playable in light & dark mode<br/>
+![image](https://github.com/steven-phun/SwiftUIProject/blob/master/GitHub-Images/NoireRoseCodex/LightMode.png)
+![image](https://github.com/steven-phun/SwiftUIProject/blob/master/GitHub-Images/NoireRoseCodex/DarkMode.png)
+- Easy to learn rules and use the space bar to provide visual help.<br/>
+![image](https://github.com/steven-phun/SwiftUIProject/blob/master/GitHub-Images/NoireRoseCodex/Rules.png)
+![image](https://github.com/steven-phun/SwiftUIProject/blob/master/GitHub-Images/NoireRoseCodex/Space.png)
+- Suggest new words, set the appearance, and keep track of how you're doing overall within the app.<br/>
+![image](https://github.com/steven-phun/SwiftUIProject/blob/master/GitHub-Images/NoireRoseCodex/Stats.png)
+![image](https://github.com/steven-phun/SwiftUIProject/blob/master/GitHub-Images/NoireRoseCodex/Menu.png)
+- The next codex is unlocked by completing the previous codex, and new codices are available every midnight.<br/>
+![image](https://github.com/steven-phun/SwiftUIProject/blob/master/GitHub-Images/NoireRoseCodex/Lock.png)
+
 
 # Mighty Card Game
 The card game Mighty is said to have been invented by Korean college students in the mid 1970's, but it is closely related to the group of Japanese picture capturing games, especially Napoleon (Japanese Card Game), which date back to the beginning of the 20th century. Mighty is played mostly by current or former students in Korea, and it is known there by the English sounding name "Mighty".
@@ -28,26 +47,6 @@ This project solved the problem of getting five people in the same room, which h
 - Visual indicators of which cards can be played and keeps a total running score all within the app.<br/>
 ![image](https://github.com/steven-phun/SwiftUIProject/blob/master/GitHub-Images/MightyCardGame/TrickPhase.png)
 ![image](https://github.com/steven-phun/SwiftUIProject/blob/master/GitHub-Images/MightyCardGame/ScorePhase.png)
-
-
-# Noire Rose Codex
-Noire rose means black rose or black pink in French.
-
-This project allows users to solve the 4, 5, and 6-Letter Codex in six tries. Each guess must be a valid word in the Codex's word bank. NoireRose Codex will color-code the letters after each guess to indicate how close your guess is to the Codex. Attempt the 4-Letter Codex to get the 5-Letter Codex. Solve the 5-Letter Codex to get the 6-Letter Codex. Everyone gets the same Codex every day and resets every midnight. 
-
-## Features
-- Color-coded letters to help solve the codex and playable in light & dark mode<br/>
-![image](https://github.com/steven-phun/SwiftUIProject/blob/master/GitHub-Images/NoireRoseCodex/LightMode.png)
-![image](https://github.com/steven-phun/SwiftUIProject/blob/master/GitHub-Images/NoireRoseCodex/DarkMode.png)
-- Easy to learn rules and use the space bar to provide visual help.<br/>
-![image](https://github.com/steven-phun/SwiftUIProject/blob/master/GitHub-Images/NoireRoseCodex/Rules.png)
-![image](https://github.com/steven-phun/SwiftUIProject/blob/master/GitHub-Images/NoireRoseCodex/Space.png)
-- Suggest new words, set the appearance, and keep track of how you're doing overall within the app.<br/>
-![image](https://github.com/steven-phun/SwiftUIProject/blob/master/GitHub-Images/NoireRoseCodex/Stats.png)
-![image](https://github.com/steven-phun/SwiftUIProject/blob/master/GitHub-Images/NoireRoseCodex/Menu.png)
-- The next codex is unlocked by completing the previous codex, and new codices are available every midnight.<br/>
-![image](https://github.com/steven-phun/SwiftUIProject/blob/master/GitHub-Images/NoireRoseCodex/Lock.png)
-
 
 # Pokémon Encyclopedia 
 This project is a replica of a Pokédex from the television show Pokémon. A Pokédex is a handheld electronic encyclopedia device capable of recording and retaining information of the various Pokémon. 
